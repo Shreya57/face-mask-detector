@@ -7,7 +7,7 @@ This project proposes one of the methods to ensure that each person coming under
 
 ## Motivation
 
-The spread of this deadly virus can be stopped if proper precautions are taken, wearing a mask being one of them. But sadly, many people are not wearing masks in public places which rises the need for monitoring.
+The spread of this deadly virus can be stopped if proper precautions are taken, wearing a mask being one of them. But sadly, many people are not wearing masks in public places which increases the need for monitoring.
 
 ## Objective
 
